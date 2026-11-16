@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+ezdxf
+reportlab
+python-multipart
+pytest
+httpx
+pypdf
